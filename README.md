@@ -1,8 +1,8 @@
 # Hi, my name is Alex Viana 👋
 
-I'm a guy of 23 years old, who lives in Central America. 🗺️
+I'm a guy of 23 years old, who loves technology 👨‍💻
 
-I have a degree in business administration and also I'm studying online for being a data analyst 👨‍💻
+I have a degree in business administration and also I'm studying online for being a data analyst 📈
 
 ### I have knowledge in:
 * Python
