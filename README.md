@@ -1,12 +1,12 @@
 # Hi, my name is Alex Viana 👋
 
-I'm a guy of 24 years old, who loves technology 👨‍💻
+I'm a guy of 26 years old, who loves technology 👨‍💻
 
 I have a degree in business administration and also I'm studying online for being a data analyst 📈
 
 ### I have knowledge in:
 * Python
-* SQL (PostgreSQL, MySQL)
+* SQL (Microsoft SQL Server, MySQL)
 * Business Intelligence
 * Data Analytics
 * Finance
